@@ -5,6 +5,9 @@ out/
 *.iml
 .idea
 /out
+*.md
+/variables/
+
 
 ### Eclipse ###
 .apt_generated
